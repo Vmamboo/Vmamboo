@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent Mambo
-- 🌱 I’m currently learning Economics, Business Institutions and Computer Science
-- 💞️ I’m looking to collaborate on business tech projects
-- 📫 How to reach me: vincentmambo2027@u.northwestern.edu
-- 😄 Pronouns: he/him/his
+- I’m currently learning Economics, Business Institutions and Computer Science
+- I’m looking to collaborate on business tech projects
+- How to reach me: vincentmambo2027@u.northwestern.edu
+- Pronouns: he/him/his
